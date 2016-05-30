@@ -79,7 +79,7 @@
              <version>2.17</version>
              <configuration>
                  <suiteXmlFiles>
-                     <suiteXmlFile>res/testng.xml</suiteXmlFile>
+                     <suiteXmlFile>res/${xmlFileName}</suiteXmlFile>
                  </suiteXmlFiles>
                  <properties>
                     <property>
